@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React js and Next js<br><br>👨‍💻 my portfolio Website https://abdullahataportfolio.netlify.app/<br><br>💬 Ask me about Front-End development<br><br>📫 How to reach me abdullahbinata450@gmail.com<br>
+🌱 I’m currently learning React js and Next js<br><br>👨‍💻 my portfolio Website https://abdullahataportfolio.netlify.app/<br><br>💬 Ask me about Front-End development<br><br>📫 How to reach me abdullahbinata450@gmail.com<br><br>📫 How to reach me [abdullahbinata450@gmail](https://www.linkedin.com/in/abdullah-bin-ata-429461253/).com<br>
 
 
 ## 🌐 Socials:
