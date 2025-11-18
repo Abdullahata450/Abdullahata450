@@ -55,8 +55,8 @@ class DeveloperExtraordinaire {
         return {
             frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
             backend: ["Node.js", "Express", "MongoDB", "PostgreSQL"],
-            cloud: ["Firebase", "AWS", "Netlify", "Vercel"],
-            tools: ["Docker", "Git", "Figma", "VS Code"],
+            cloud: ["Firebase", "Netlify", "Vercel"],
+            tools: ["Git", "Figma", "VS Code", "Postman"],
             expertise: ["MERN Stack", "API Development", "Cloud Integration"]
         };
     }
@@ -244,6 +244,10 @@ console.log("Ready to build something extraordinary? Let's connect! 🚀");
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
 </td>
 </tr>
 </table>
