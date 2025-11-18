@@ -450,6 +450,6 @@ pie title Technology Stack Distribution
 [![Powered by Coffee](https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge&labelColor=000000)](https://github.com/Abdullahata450)
 [![Built with Code](https://img.shields.io/badge/Built%20with-💻-blue?style=for-the-badge&labelColor=000000)](https://github.com/Abdullahata450)
 
-<sub>© 2024 Abdullah Bin Ata | All Rights Reserved</sub>
+<sub>© 2025 Abdullah Bin Ata | All Rights Reserved</sub>
 
 </div>
