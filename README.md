@@ -48,7 +48,7 @@ class DeveloperExtraordinaire {
         this.name = "Abdullah Bin Ata";
         this.role = "Full Stack Sorcerer";
         this.location = "🌍 Building from Pakistan";
-        this.currentMission = "Revolutionizing Web3.0";
+        this.currentMission = "DEV X DEVOPS ENGINEER";
     }
 
     get techStack() {
